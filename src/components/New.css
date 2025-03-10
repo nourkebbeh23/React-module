@@ -1,0 +1,49 @@
+.jpg{
+width: 374px;
+height: 378px;
+}
+.new{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+.kj{
+    margin: 10px;
+    background-color: white;
+    border: 1px solid rgb(177, 170, 170);
+    border-radius: 5px;
+    text-align: center;
+}
+.pcolor{
+    color:#f23a2e ;
+}
+.ty{
+    color: rgb(177, 170, 170);
+}
+.kl{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.wq{
+  border: 1px solid rgb(177, 170, 170);
+  border-radius: 50% ;
+  padding: 10px ;
+color: #f23a2e;
+  margin: 3px;
+}
+
+.wq:hover{
+    color:rgb(177, 170, 170) ;
+}
+
+
+
+.wq1{
+    border: 1px solid rgb(177, 170, 170);
+    border-radius: 50% ;
+    padding: 10px ;
+
+    margin: 3px;
+  }
