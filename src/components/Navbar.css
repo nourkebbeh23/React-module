@@ -1,0 +1,91 @@
+.bg{
+  background-image: url(./assets/hero_bg_1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  width: 1400px;
+
+
+}
+.container-nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-bottom: 1px solid rgb(177, 170, 170);
+
+}
+.container-nav1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 1px solid rgb(177, 170, 170);
+
+}
+.color{
+  color: white;
+  font-size: 2rem;
+font-weight: lighter;
+}
+.color-h2{
+  color: white;
+}
+.margin{
+  margin-top: 100px;
+  margin-left: 100px;
+}
+.span{
+  font-weight: bold;
+  font-size: 4rem;
+}
+.navbar {
+
+    padding: 10px;
+    display: flex;
+    gap: 15px;
+  }
+  
+  .navbar a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+  .navbar a:hover {
+    color: rgb(177, 170, 170);
+  }
+  .color-rem{
+font-size: 4rem;
+color: white;
+font-weight: lighter;
+  }
+  .card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+  }
+  .card-1{
+    background-color: rgb(177, 170, 170);
+    color: white;
+    border-radius: 5px;
+    margin: 5px;
+    width: 350px;
+    height: 150px;
+    text-align: center;
+  }
+  .icons{
+position: absolute;
+ margin-left: 170px;
+  }
+
+  .colors{
+
+    color: white;
+margin-left: 800px;
+
+  }
+  .iconn{
+    width: 60px;
+    height: 20px;
+    margin-top: 10px;
+  }
