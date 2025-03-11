@@ -1,0 +1,28 @@
+.r{
+
+font-size: 3rem;
+}
+.content{
+    display: flex;
+    justify-content: space-around;
+}
+.hrr{
+    background-image: url(./assets/hero_bg_1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+height: 500px;
+width: 800px;
+}
+.play{
+ margin-top: 200px;
+margin-left: 370px;
+
+    font-size: 20px;
+    width: 60px;
+    height: 60px;
+    background: #fff;
+
+    border-radius: 50%;
+
+    color: #f23a2e !important;
+}
